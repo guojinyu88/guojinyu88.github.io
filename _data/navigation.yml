@@ -25,6 +25,10 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "新的Bar"
+    url: /new_bar/
+
     
   # - title: "CV"
   #   url: /cv-json/
