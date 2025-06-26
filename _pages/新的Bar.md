@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "这是新的Bar的标题"
-permalink: /新的Bar-名字/
+permalink: /new_bar/
 author_profile: true
 redirect_from:
   - /resume
