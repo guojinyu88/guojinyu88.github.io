@@ -26,7 +26,7 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "新的Bar"
+  - title: "新的Bar"   # 新的Bar 在页面上显示的名字
     url: /new_bar/
 
     
