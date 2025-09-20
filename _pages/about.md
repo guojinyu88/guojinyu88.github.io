@@ -1,13 +1,20 @@
 ---
 permalink: /
-title: "1第一段话在此处Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Joey 郭 (郭金宇)"
 author_profile: true
 redirect_from: 
-  - /about/
+  - /about/c
   - /about.html
 ---
 
-这是第一段话This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+郭金宇，电子科技大学信息与软件工程学院教师，剑桥大学联合培养博士，IEEE Member，中国中文信息学会青年
+工作委员会委员，中国计算机学会自然语言处理专委会委员，中国人工智能学会会员，中国通信学会会员。主要研
+究领域为人工智能、自然语言处理。研究方向是大模型在不同任务场景应用(如对话系统、智能检索问答、信息抽取
+等)下的适配微调优化及大模型安全与推理加速，主要涉及技术包括指令微调、遗忘学习、检索增强生成 (RAG)、混
+合专家系统 (MoE)、AI智能体、知识图谱等。目前已经以第一/通讯作者身份在国际知名会议期刊上(如CCF A类会
+议、SCI一区期刊等)发表录用论文二十余篇。担任ACL、Neurips、ICML、WWW等多个国际知名会议及期刊的审稿
+人，目前已经主持主研各类科研项目二十余项。
+
 
 这是第二段的题目A data-driven personal website
 ======
