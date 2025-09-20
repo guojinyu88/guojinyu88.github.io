@@ -19,7 +19,6 @@ redirect_from:
 
 论文/期刊
 ======
-
 {% for y in site.publications_by_year %}
   <h2>{{ y.year }}</h2>
   <ul>
