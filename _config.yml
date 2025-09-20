@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name名称 / Site Title小标题"
+title                    : "郭金宇 电子科技大学"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
