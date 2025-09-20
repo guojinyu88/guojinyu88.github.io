@@ -107,8 +107,8 @@ publications_by_year:
         venue: "Applied Soft Computing:113365"
         year: 2025  # :contentReference[oaicite:3]{index=3}
       - title: "Noise-Robustness Through Noise: Asymmetric LoRA Adaption with Poisoning Expert"
-        authors: "Z. Wang, J. Guo, …"
-        venue: "preprint"
+        authors: "Z Wang, J Guo, J Pu, L Chen, H Pu, J Ou, L Qin, W Tian"
+        venue: "arXiv preprint arXiv:2505.23868"
         year: 2025  # :contentReference[oaicite:4]{index=4}
       - title: "From local verification to global reasoning: Exploiting slot-accompanying update for improved slot selection"
         authors: "B. Qian, J. Guo, Q. Wang, K. Shuang"
@@ -134,8 +134,8 @@ publications_by_year:
         venue: "Findings of ACL 2024:5520–5532"
         year: 2024  # :contentReference[oaicite:9]{index=9}
       - title: "Scented-EAE: Stage-customized entity type embedding for event argument extraction"
-        authors: "Y. Yang, J. Guo, K. Shuang, …"
-        venue: "preprint / under review"
+        authors: "Y Yang, J Guo, K Shuang, C Mao"
+        venue: "Findings of the Association for Computational Linguistics ACL 2024, 5222-5235"
         year: 2024  # 放在 2024 组，按学者页相邻排序推断  # :contentReference[oaicite:10]{index=10}
 
   - year: 2023
@@ -146,7 +146,7 @@ publications_by_year:
         year: 2023  # :contentReference[oaicite:11]{index=11}
       - title: "Learning to imagine: Distillation-based interactive context exploitation for dialogue state tracking"
         authors: "J. Guo, K. Shuang, K. Zhang, Y. Liu, J. Li, Z. Wang"
-        venue: "AAAI 37(11):12845–…"
+        venue: "Proceedings of the AAAI conference on artificial intelligence. 2023, 37(11): 12845-12853."
         year: 2023  # :contentReference[oaicite:12]{index=12}
       - title: "Enhancing semantic relation classification with shortest dependency path reasoning"
         authors: "J. Li, K. Shuang, J. Guo, Z. Shi, H. Wang"
@@ -154,7 +154,7 @@ publications_by_year:
         year: 2023  # :contentReference[oaicite:13]{index=13}
       - title: "What is overlap knowledge in event argument extraction? APE: A cross-datasets transfer learning model for EAE"
         authors: "K. Zhang, K. Shuang, X. Yang, X. Yao, J. Guo"
-        venue: "ACL 2023 (61st Annual Meeting)"
+        venue: "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). 2023."
         year: 2023  # :contentReference[oaicite:14]{index=14}
       - title: "Towards style and text jointly controlled Mandarin speech synthesis"
         authors: "H. Yin, C. Ye, Y. Shao, W. Xie, J. Guo, K. Shuang"
@@ -167,8 +167,8 @@ publications_by_year:
         authors: "K. Shuang, J. Guo, Z. Wang"
         venue: "Pattern Recognition 131:108878"
         year: 2022  # :contentReference[oaicite:16]{index=16}
-      - title: "DRIE: A Unified Dual-task Framework for Zero-shot Document-level Relation Inference"
-        authors: "C. Guo, J. Guo, Q. Wang, Y. Wang, K. Shuang"
+      - title: "Beyond the granularity: Multi-perspective dialogue collaborative selection for dialogue state tracking"
+        authors: "J Guo, K Shuang, J Li, Z Wang, Y Liu"
         venue: "arXiv:2205.10059"
         year: 2022  # :contentReference[oaicite:17]{index=17}
 
