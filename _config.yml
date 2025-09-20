@@ -86,6 +86,100 @@ publication_category:
   conferences:
     title: 'Conference Papers'
 
+
+# ---- Publications (grouped by year, newest first) ----
+publications_by_year:
+  - year: 2025
+    items:
+      - title: "Bi-directional feature learning-based approach for zero-shot event argument extraction"
+        authors: "J. Zhou, K. Shuang, Q. Wang, B. Qian, J. Guo"
+        venue: "Information Processing & Management 62(5):104199"
+        year: 2025  # :contentReference[oaicite:1]{index=1}
+      - title: "Learning Wisdom from Errors: Promoting LLM's Continual Relation Learning through Exploiting Error Cases"
+        authors: "S. Yin, J. Guo, K. Shuang, X. Liu, R. Ou"
+        venue: "arXiv:2508.12031"
+        year: 2025  # :contentReference[oaicite:2]{index=2}
+      - title: "Adversarial hard negative samples for continual relation extraction"
+        authors: "S. Yao, J. Guo, J. Li, J. Ou, Y. Feng, J. Hu, D. Liu"
+        venue: "Applied Soft Computing:113365"
+        year: 2025  # :contentReference[oaicite:3]{index=3}
+      - title: "Noise-Robustness Through Noise: Asymmetric LoRA Adaption with Poisoning Expert"
+        authors: "Z. Wang, J. Guo, …"
+        venue: "preprint"
+        year: 2025  # :contentReference[oaicite:4]{index=4}
+      - title: "From local verification to global reasoning: Exploiting slot-accompanying update for improved slot selection"
+        authors: "B. Qian, J. Guo, Q. Wang, K. Shuang"
+        venue: "Knowledge-Based Systems:113521"
+        year: 2025  # :contentReference[oaicite:5]{index=5}
+      - title: "Multi-Perspective Dialogue Non-Quota Selection with loss monitoring for dialogue state tracking"
+        authors: "J. Guo, Z. Wang, J. Pu, W. Tian, G. Duan, G. Luo"
+        venue: "Expert Systems with Applications:127516"
+        year: 2025  # :contentReference[oaicite:6]{index=6}
+      - title: "Large Language Models Help Span-based Named Entity Recognition"
+        authors: "Y. Wang, J. Guo, S. Li, Q. Wang, K. Shuang"
+        venue: "arXiv preprint"
+        year: 2025  # :contentReference[oaicite:7]{index=7}
+      - title: "A Global Perspective on Document-level Event Extraction: Tasks and Resources"
+        authors: "Y. Wang, J. Guo, S. Li, Q. Wang, K. Shuang"
+        venue: "Applied Soft Computing:111660"
+        year: 2025  # :contentReference[oaicite:8]{index=8}
+
+  - year: 2024
+    items:
+      - title: "Thinking about how to extract: Energizing LLMs’ emergence capabilities for document-level event argument extraction"
+        authors: "K. Shuang, Z. Zhouji, W. Qiwei, J. Guo"
+        venue: "Findings of ACL 2024:5520–5532"
+        year: 2024  # :contentReference[oaicite:9]{index=9}
+      - title: "Scented-EAE: Stage-customized entity type embedding for event argument extraction"
+        authors: "Y. Yang, J. Guo, K. Shuang, …"
+        venue: "preprint / under review"
+        year: 2024  # 放在 2024 组，按学者页相邻排序推断  # :contentReference[oaicite:10]{index=10}
+
+  - year: 2023
+    items:
+      - title: "Improving document-level event detection with event relation graph"
+        authors: "J. Zhou, K. Shuang, Z. An, J. Guo, J. Loo"
+        venue: "Information Sciences 645:119355"
+        year: 2023  # :contentReference[oaicite:11]{index=11}
+      - title: "Learning to imagine: Distillation-based interactive context exploitation for dialogue state tracking"
+        authors: "J. Guo, K. Shuang, K. Zhang, Y. Liu, J. Li, Z. Wang"
+        venue: "AAAI 37(11):12845–…"
+        year: 2023  # :contentReference[oaicite:12]{index=12}
+      - title: "Enhancing semantic relation classification with shortest dependency path reasoning"
+        authors: "J. Li, K. Shuang, J. Guo, Z. Shi, H. Wang"
+        venue: "IEEE/ACM TASLP 31:1550–1560"
+        year: 2023  # :contentReference[oaicite:13]{index=13}
+      - title: "What is overlap knowledge in event argument extraction? APE: A cross-datasets transfer learning model for EAE"
+        authors: "K. Zhang, K. Shuang, X. Yang, X. Yao, J. Guo"
+        venue: "ACL 2023 (61st Annual Meeting)"
+        year: 2023  # :contentReference[oaicite:14]{index=14}
+      - title: "Towards style and text jointly controlled Mandarin speech synthesis"
+        authors: "H. Yin, C. Ye, Y. Shao, W. Xie, J. Guo, K. Shuang"
+        venue: "EURASIP Journal on Audio, Speech, and Music Processing"
+        year: 2023  # :contentReference[oaicite:15]{index=15}
+
+  - year: 2022
+    items:
+      - title: "Comprehensive-perception dynamic reasoning for visual question answering"
+        authors: "K. Shuang, J. Guo, Z. Wang"
+        venue: "Pattern Recognition 131:108878"
+        year: 2022  # :contentReference[oaicite:16]{index=16}
+      - title: "DRIE: A Unified Dual-task Framework for Zero-shot Document-level Relation Inference"
+        authors: "C. Guo, J. Guo, Q. Wang, Y. Wang, K. Shuang"
+        venue: "arXiv:2205.10059"
+        year: 2022  # :contentReference[oaicite:17]{index=17}
+
+  - year: 2021
+    items:
+      - title: "Dual slot selector via local reliability verification for dialogue state tracking"
+        authors: "J. Guo, K. Shuang, J. Li, Z. Wang"
+        venue: "arXiv:2107.12578"
+        year: 2021  # :contentReference[oaicite:18]{index=18}
+      - title: "Multi-grain natural language interface for relational databases"
+        authors: "J. Pu, J. Wang, J. Liu, J. Guo, K. Shuang"
+        venue: "arXiv preprint"
+        year: 2021  # :contentReference[oaicite:19]{index=19}
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
