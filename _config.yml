@@ -36,7 +36,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "照片-1.png"  ## 该图片需要放在  /images 目录下
+  avatar           : "示例图片.png"  ## 该图片需要放在  /images 目录下
   name             : "郭金宇"
   pronouns         : # example: "she/her"  
   bio              : "郭金宇，电子科技大学信息与软件工程学院教师，剑桥大学联合培养博士，IEEE Member，中国中文信息学会青年
