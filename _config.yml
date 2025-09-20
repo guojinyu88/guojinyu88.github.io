@@ -18,18 +18,6 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 
-{% for y in site.publications_by_year %}
-  <h2>{{ y.year }}</h2>
-  <ul>
-  {% for p in y.items %}
-    <li><strong>{{ p.title }}</strong><br/>
-        {{ p.authors }}<br/>
-        <em>{{ p.venue }}</em> ({{ p.year }})
-    </li>
-  {% endfor %}
-  </ul>
-{% endfor %}
-
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
