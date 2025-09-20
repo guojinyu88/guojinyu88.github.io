@@ -32,13 +32,20 @@ redirect_from:
 {% endfor %}
 
 
-How to edit your site's GitHub repository
+竞赛经历
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+2024年北京市优秀博士毕业生（省级）         2024-05
+2022年博士国家奖学金（答辩成绩年级第一）    2022-12
+2024年北京邮电大学优秀博士毕业生           2024-05
+2022年北京邮电大学卓越博士研究生基金       2022-07
+2023年北京邮电大学优秀博士研究生           2023-10
+2021年北京邮电大学博士研究生一等学业奖学金  2021-11
+2020年国家重点实验室优秀博士研究生         2020-12
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+第八届北京邮电大学程序设计竞赛银牌（全校排名第四）      2014-10
+第五届中国法研杯司法人工智能挑战赛入围奖               2023-10
+第六届中国国际"互联网+"大学生创新创业大赛总决赛全国银奖 2020-11
+全国信息学奥林匹克联赛提高组二等奖                     2012-10
+全国信息学奥林匹克联赛普及组一等奖                     2010-10
