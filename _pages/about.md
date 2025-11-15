@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Joey 郭 (郭金宇)"
+title: "郭金宇"
 author_profile: true
 redirect_from: 
   - /about/c
