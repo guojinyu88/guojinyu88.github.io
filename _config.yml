@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "郭金宇 电子科技大学"
+title                    : "郭金宇"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -28,7 +28,7 @@ author:
   name             : "郭金宇"
   pronouns         : # example: "she/her"  
   bio: >-
-    郭金宇，电子科技大学信息与软件工程学院教师，剑桥大学联合培养博士，IEEE Member。
+    电子科技大学 讲师，研究方向为大语言模型、自然语言处理。
 
   location         : "Chengdu,China"
   employer         : "University of Electronic Science and Technology of China"
