@@ -1,11 +1,8 @@
 ---
-permalink: /
+permalink: /en/
 title: "郭金宇"
 author_profile: true
 lang: en
-redirect_from: 
-  - /about/c
-  - /about.html
 ---
 
 {% include base_path %}
