@@ -7,8 +7,6 @@ redirect_from:
   - /about/c
   - /about.html
 ---
-
----
 title: "Joey Guo"
 permalink: /en/
 lang: en
