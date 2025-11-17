@@ -1,5 +1,20 @@
 {% include base_path %}
 
+
+{%- comment -%}
+根据页面语言选择站点标题：
+- 在 _config.yml 中定义：
+    title_zh: "个人主页"
+    title_en: "Personal Homepage"
+{%- endcomment -%}
+{% if page.lang == "en" %}
+  {% assign site_title = site.title_en | default: site.title %}
+{% else %}
+  {% assign site_title = site.title_zh | default: site.title %}
+{% endif %}
+
+
+
 <meta charset="utf-8">
 
 {% include seo.html %}
