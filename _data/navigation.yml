@@ -30,8 +30,8 @@
 #     url: /new_bar/
 
 main: 
-    - title: "en"
-    url: /en/
+  - title: "en"
+  url: /en/
     
 #   - title: "Guide"
 #     url: /markdown/
