@@ -7,12 +7,6 @@ redirect_from:
   - /about/c
   - /about.html
 ---
----
-title: "Joey Guo"
-permalink: /en/
-lang: en
-author_profile: true
----
 
 郭金宇，电子科技大学，讲师，剑桥大学联合培养博士，中国中文信息学会青年
 工作委员会委员，中国中文信息学会大模型与生成专委会委员，中国计算机学会自然语言处理专委会委员，中国人工智能学会会员，中国通信学会会员。
