@@ -2,9 +2,17 @@
 permalink: /
 title: "郭金宇"
 author_profile: true
+lang: zh
 redirect_from: 
   - /about/c
   - /about.html
+---
+
+---
+title: "Joey Guo"
+permalink: /en/
+lang: en
+author_profile: true
 ---
 
 郭金宇，电子科技大学，讲师，剑桥大学联合培养博士，中国中文信息学会青年
