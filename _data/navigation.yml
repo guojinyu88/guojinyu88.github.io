@@ -30,8 +30,8 @@
 #     url: /new_bar/
 
     
-#   # - title: "CV"
-#   #   url: /cv-json/
+- title: "en"
+url: /en/
     
 #   - title: "Guide"
 #     url: /markdown/
