@@ -1,8 +1,35 @@
-{% include base_path %}
+<!-- {% include base_path %}
 
 {% if page.author and site.data.authors[page.author] %}
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+{% endif %} -->
+
+
+{% include base_path %}
+
+{%- comment -%}
+根据页面语言选择默认作者：
+- 英文页（page.lang == "en"）：使用 site.author_en
+- 其他（默认/中文）：使用 site.author_zh
+{%- endcomment -%}
+{% if page.lang == "en" %}
+  {% assign default_author = site.author_en %}
+{% else %}
+  {% assign default_author = site.author_zh %}
 {% endif %}
+
+{%- comment -%}
+如果页面显式指定了 page.author，并且在 _data/authors.yml 里有对应条目，
+则优先使用该作者；否则用当前语言对应的默认作者。
+{%- endcomment -%}
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}
+{% else %}
+  {% assign author = default_author %}
+{% endif %}
+
+
+
 
 <div itemscope itemtype="http://schema.org/Person">
 
