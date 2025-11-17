@@ -9,7 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "个人主页"
+title_zh                 : "个人主页"
+title_en                 : "个人主页"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
