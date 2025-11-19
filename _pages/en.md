@@ -20,19 +20,22 @@ This is a test English version of my personal site.
 
 
 
-论文/期刊
+Articles and journals (partial list)
 ======
-{% for y in site.publications_by_year %}
-  <h2>{{ y.year }}</h2>
-  <ul>
-  {% for p in y.items %}
-    <li><strong>{{ p.title }}</strong><br/>
-        {{ p.authors }}<br/>
-        <em>{{ p.venue }}</em> ({{ p.year }})
-    </li>
-  {% endfor %}
-  </ul>
+{% assign pubs = site.publications | sort: "year" | reverse %}
+<ul>
+{% for p in pubs %}
+  <li>
+    <strong>{{ p.title }}</strong><br/>
+    {{ p.authors }} {{ p.venue }}
+    {% if page.lang == "en" %}
+      {% if p.desc_en %} ({{ p.desc_en }}){% endif %}
+    {% else %}
+      {% if p.desc_zh %} ({{ p.desc_zh }}){% endif %}
+    {% endif %}
+  </li>
 {% endfor %}
+</ul>
 
 学术服务
 ======
