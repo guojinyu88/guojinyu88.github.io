@@ -205,99 +205,99 @@ publications_by_year:
 
 ################################################
 publications_:
-  #- title: "Noise-Robustness Through Noise: Asymmetric LoRA Adaption with Poisoning Expert"
- #   authors: "Zhaokun Wang, Jinyu Guo*, Jingwen Pu, Chen Lingfeng, Hongli Pu, Jie Ou, Libo Qin, Wenhong Tian."
+  - title: "Noise-Robustness Through Noise: Asymmetric LoRA Adaption with Poisoning Expert"
+  #  authors: "Zhaokun Wang, Jinyu Guo*, Jingwen Pu, Chen Lingfeng, Hongli Pu, Jie Ou, Libo Qin, Wenhong Tian."
   #  venue: "The Thirty-ninth Annual Conference on Neural Information Processing Systems"
- #   desc_zh: "NeurIPS 2025, CCF A类会议，*是通讯作者"
+  #  desc_zh: "NeurIPS 2025, CCF A类会议，*是通讯作者"
   #  desc_en: "NeurIPS 2025, CCF A conference; * indicates corresponding author"
 
-
-- title: "Noise-Robustness Through Noise: Asymmetric LoRA Adaption with Poisoning Expert"
+  
+  - title: "Noise-Robustness Through Noise: Asymmetric LoRA Adaption with Poisoning Expert"
     authors: "Zhaokun Wang, Jinyu Guo*, Jingwen Pu, Chen Lingfeng, Hongli Pu, Jie Ou, Libo Qin, Wenhong Tian."
     venue: "The Thirty-ninth Annual Conference on Neural Information Processing Systems"
     desc_zh: "NeurIPS 2025, CCF A类会议，*是通讯作者"
     desc_en: "NeurIPS 2025, CCF A conference; * indicates corresponding author"
-
-- title: "ALTER: Asymmetric LoRA for Token-Entropy-Guided Unlearning of LLMs"
+  
+  - title: "ALTER: Asymmetric LoRA for Token-Entropy-Guided Unlearning of LLMs"
     authors: "Xunlei Chen, Jinyu Guo#*, Yuang Li, Zhaokun Wang, Yi Gong, Jie Zou, Jiwei Wei, Wenhong Tian."
     venue: "The 40th Annual AAAI Conference on Artificial Intelligence"
     desc_zh: "AAAI 2026, CCF A类会议，共一、通讯作者"
     desc_en: "AAAI 2026, CCF A conference; # and * indicate co-first author and corresponding author, respectively"
-
-- title: "HASH-RAG: Bridging Deep Hashing with Retriever for Efficient, Fine Retrieval and Augmented Generation"
+  
+  - title: "HASH-RAG: Bridging Deep Hashing with Retriever for Efficient, Fine Retrieval and Augmented Generation"
     authors: "Jinyu Guo, Xunlei Chen, Qiyang Xia, Zhaokun Wang, Jie Ou, Libo Qin, Shunyu Yao, Wenhong Tian."
     venue: "Findings of the Association for Computational Linguistics: ACL 2025"
     desc_zh: "ACL 2025, CCF A类会议"
     desc_en: "ACL 2025, CCF A conference"
-
-- title: "Accelerating Adaptive Retrieval Augmented Generation via Instruction-Driven Representation Reduction of Retrieval Overlaps"
+  
+  - title: "Accelerating Adaptive Retrieval Augmented Generation via Instruction-Driven Representation Reduction of Retrieval Overlaps"
     authors: "Jie Ou, Jinyu Guo*, Shuaihong Jiang, Zhaokun Wang, Libo Qin, Shunyu Yao, Wenhong Tian."
     venue: "Findings of the Association for Computational Linguistics: ACL 2025"
     desc_zh: "ACL 2025, CCF A类会议，*是通讯作者"
     desc_en: "ACL 2025, CCF A conference; * indicates corresponding author"
-
-- title: "Scented-EAE: Stage-Customized Entity Type Embedding for Event Argument Extraction"
+  
+  - title: "Scented-EAE: Stage-Customized Entity Type Embedding for Event Argument Extraction"
     authors: "Yu Yang, Jinyu Guo, Kai Shuang, Chenrui Mao"
     venue: "Findings of the Association for Computational Linguistics: ACL 2024"
     desc_zh: "ACL 2024, CCF A类会议，共同一作"
     desc_en: "ACL 2024, CCF A conference; # indicates co-first author"
-
-- title: "Thinking about how to extract: Energizing LLMs' emergence capabilities for document-level event argument extraction"
+  
+  - title: "Thinking about how to extract: Energizing LLMs' emergence capabilities for document-level event argument extraction"
     authors: "Kai Shuang, Ji Zhou, Qiwei Wang, Jinyu Guo."
     venue: "Findings of the Association for Computational Linguistics: ACL 2024"
     desc_zh: "ACL 2024, CCF A类会议"
     desc_en: "ACL 2024, CCF A conference"
-
-- title: "Learning to Imagine: Distillation-Based Interactive Context Exploitation for Dialogue State Tracking"
+  
+  - title: "Learning to Imagine: Distillation-Based Interactive Context Exploitation for Dialogue State Tracking"
     authors: "Jinyu Guo, Kai Shuang, Kaihang Zhang, Yixuan Liu, Jijie Li, Zihan Wang."
     venue: "Proceedings of the AAAI Conference on Artificial Intelligence"
     desc_zh: "AAAI 2023, CCF A类会议"
     desc_en: "AAAI 2023, CCF A conference"
-
-- title: "What Is Overlap Knowledge in Event Argument Extraction? APE: A Cross-datasets Transfer Learning Model for EAE"
+  
+  - title: "What Is Overlap Knowledge in Event Argument Extraction? APE: A Cross-datasets Transfer Learning Model for EAE"
     authors: "Kaihang Zhang, Kai Shuang, Xinyue Yang, Xuyang Yao, and Jinyu Guo."
     venue: "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)"
     desc_zh: "ACL 2023, CCF A类会议"
     desc_en: "ACL 2023, CCF A conference"
-
-- title: "Beyond the Granularity: Multi-Perspective Dialogue Collaborative Selection for Dialogue State Tracking"
+  
+  - title: "Beyond the Granularity: Multi-Perspective Dialogue Collaborative Selection for Dialogue State Tracking"
     authors: "Jinyu Guo, Kai Shuang, Jijie Li, Zihan Wang, and Yixuan Liu."
     venue: "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)"
     desc_zh: "ACL 2022 Main Conference, CCF A类会议"
     desc_en: "ACL 2022 Main Conference, CCF A conference"
-
-- title: "Dual Slot Selector via Local Reliability Verification for Dialogue State Tracking"
+  
+  - title: "Dual Slot Selector via Local Reliability Verification for Dialogue State Tracking"
     authors: "Jinyu Guo, Kai Shuang, Jijie Li, Zihan Wang."
     venue: "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)"
     desc_zh: "ACL 2021 Main Conference, Oral, CCF A类会议"
     desc_en: "ACL 2021 Main Conference, Oral, CCF A conference"
-
-- title: "Multi-Perspective Dialogue Non-Quota Selection With Loss Monitoring for Dialogue State Tracking"
+  
+  - title: "Multi-Perspective Dialogue Non-Quota Selection With Loss Monitoring for Dialogue State Tracking"
     authors: "Jinyu Guo, Zhaokun Wang, Jingwen Pu, Wenhong Tian, Guiduo Duan, Guangchun Luo."
     venue: "Expert Systems with Applications"
     desc_zh: "SCI大类一区期刊"
     desc_en: "SCI Q1 Journal"
-
-- title: "Cognition-aligned frequency filtering for sentence embeddings"
+  
+  - title: "Cognition-aligned frequency filtering for sentence embeddings"
     authors: "Chenrui Mao, Kai Shuang, Jinyu Guo*, Bing Qian, Yu Yang, Haoqing Li."
     venue: "Information Processing & Management"
     desc_zh: "SCI大类一区TOP期刊，CCF B类期刊，*是通讯作者"
     desc_en: "SCI Q1 TOP Journal, CCF B journal; * indicates corresponding author"
-
-- title: "From Local Verification to Global Reasoning: Exploiting Accompanying Update of Slots for Slot Selection Enhancement"
+  
+  - title: "From Local Verification to Global Reasoning: Exploiting Accompanying Update of Slots for Slot Selection Enhancement"
     authors: "Bin Qian, Jinyu Guo*, Qiwei Wang, Kai Shuang."
     venue: "Knowledge-Based Systems"
     desc_zh: "SCI大类一区，*是通讯作者"
     desc_en: "SCI Q1; * indicates corresponding author"
-
-- title: "Comprehensive-Perception Dynamic Reasoning for Visual Question Answering"
+  
+  - title: "Comprehensive-Perception Dynamic Reasoning for Visual Question Answering"
     authors: "Kai Shuang, Jinyu Guo*, Zihan Wang."
     venue: "Pattern Recognition"
     desc_zh: "PR, SCI大类一区期刊，*是通讯作者"
     desc_en: "PR, SCI Q1 journal; * indicates corresponding author"
-
-
-- title: "Adversarial hard negative samples for continual relation extraction"
+  
+  
+  - title: "Adversarial hard negative samples for continual relation extraction"
     authors: "Shunyu Yao, Jinyu Guo*, Jijie Li, Jie Ou, Yufei Feng, Jie Hu, Dan Liu."
     venue: "Applied Soft Computing"
     desc_zh: "JCR一区期刊，*是通讯作者"
