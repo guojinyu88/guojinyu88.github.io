@@ -1,12 +1,12 @@
 ---
 permalink: /en/
-title: "Joey Guo"
+title: "Jinyu Guo"
 author_profile: true
 lang: en
 ---
 
 {% include base_path %}
-Joey Guo is a Lecturer at the University of Electronic Science and Technology of China (UESTC) and a joint Ph.D. trainee with the University of Cambridge. He is a member of the Youth Working Committee of the Chinese Information Processing Society of China (CIPSC), a member of the CIPSC Committee on Large Models and Generation, a member of the CCF Technical Committee on Natural Language Processing, and a member of both the Chinese Association for Artificial Intelligence (CAAI) and the China Communications Society.
+Jinyu Guo is a Lecturer at the University of Electronic Science and Technology of China (UESTC) and a joint Ph.D. trainee with the University of Cambridge. He is a member of the Youth Working Committee of the Chinese Information Processing Society of China (CIPSC), a member of the CIPSC Committee on Large Models and Generation, a member of the CCF Technical Committee on Natural Language Processing, and a member of both the Chinese Association for Artificial Intelligence (CAAI) and the China Communications Society.
 
 His main research areas are artificial intelligence and natural language processing. His current research focuses on efficient adaptation and fine-tuning of large language models for different task scenarios, acceleration of large model inference, data governance for large models, and large model safety. He has published more than twenty papers as first or corresponding author in well-known international conferences and journals (including CCF Tier-A conferences and SCI Q1 journals). He serves as a reviewer for several top conferences and journals such as ACL, NeurIPS, ICML, WWW, and TKDE, and has led or played a key role in more than ten research projects.
 
