@@ -19,7 +19,7 @@ redirect_from:
 论⽂期刊 (部分)
 ======
 <ul>
-{% for p in site.publications %}
+{% for p in site.publications_ %}
   <li>
     <strong>{{ p.title }}</strong><br/>
     {{ p.authors }} {{ p.venue }}{% if p.desc_zh %} ({{ p.desc_zh }}){% endif %}
