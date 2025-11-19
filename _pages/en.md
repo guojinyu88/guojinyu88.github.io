@@ -42,8 +42,7 @@ Partial Project Experience
 | ------------------------------------------------------------------------------------------ | ----------------: | -------------- |
 | 2025 State-owned Assets Plan (Category C)                                                  | 2025-07 – present | PI             |
 | 16th Batch Fundamental Research Funds for the Central Universities Project                 | 2025-04 – present | PI             |
-| UESTC–Kunpeng Ascend Sci-Tech Innovation
-Incubation Center Innovation Project (Category A) | 2025-09 – present | PI             |
+| UESTC–Kunpeng Ascend Sci-Tech Innovation Incubation Center Innovation Project (Category A) | 2025-09 – present | PI             |
 | 2022 Beijing Natural Science Foundation General Program                                    | 2022-08 – 2024-12 | Key researcher |
 
 
