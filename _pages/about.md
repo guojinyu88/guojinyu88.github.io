@@ -16,7 +16,7 @@ redirect_from:
 
 
 
-论⽂期刊 (部分)
+论文期刊 (部分)
 ======
 <ul>
 {% for p in site.publications_ %}
