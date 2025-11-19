@@ -22,17 +22,11 @@ This is a test English version of my personal site.
 
 Articles and journals (partial list)
 ======
-{% assign pubs = site.publications | sort: "year" | reverse %}
 <ul>
-{% for p in pubs %}
+{% for p in site.publications_ %}
   <li>
     <strong>{{ p.title }}</strong><br/>
-    {{ p.authors }} {{ p.venue }}
-    {% if page.lang == "en" %}
-      {% if p.desc_en %} ({{ p.desc_en }}){% endif %}
-    {% else %}
-      {% if p.desc_zh %} ({{ p.desc_zh }}){% endif %}
-    {% endif %}
+    {{ p.authors }} {{ p.venue }}{% if p.desc_en %} ({{ p.desc_en }}){% endif %}
   </li>
 {% endfor %}
 </ul>
