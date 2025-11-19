@@ -1,6 +1,6 @@
 ---
 permalink: /en/
-title: "郭金宇"
+title: "Joey Guo"
 author_profile: true
 lang: en
 ---
