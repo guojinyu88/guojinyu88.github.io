@@ -26,7 +26,7 @@ Publication (partial list)
 
 Academic services
 ======
-Serves as a reviewer for numerous internationally renowned conferences and journals, including ICML, NeurIPS, ACL, WWW, AAAI, EMNLP, TKDE, NAACL, AISTATS, Information Fusion, Information Processing & Management, and ESWA.
+Serves as a reviewer: ICML, NeurIPS, ACL, WWW, AAAI, EMNLP, TKDE, NAACL, AISTATS, Information Fusion, Information Processing & Management, ESWA, etc.
 
 
 Partial Project Experience
