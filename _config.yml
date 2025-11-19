@@ -84,7 +84,7 @@ author_zh:
 author_en:
   # Biographic information
   avatar           : "照片-1.png"  ## 该图片需要放在  /images 目录下
-  name             : "Joey Guo"
+  name             : "Jinyu Guo"
   pronouns         : # example: "she/her"  
   bio: >-
     Lecturer at the University of Electronic Science and Technology of China, specializing in large language models and natural language processing.。
