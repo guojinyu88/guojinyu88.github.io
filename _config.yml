@@ -204,7 +204,7 @@ publications_by_year:
         year: 2021
 
 ################################################
-publications:
+publications_:
   - title: "Noise-Robustness Through Noise: Asymmetric LoRA Adaption with Poisoning Expert"
     authors: "Zhaokun Wang, Jinyu Guo*, Jingwen Pu, Chen Lingfeng, Hongli Pu, Jie Ou, Libo Qin, Wenhong Tian."
     venue: "The Thirty-ninth Annual Conference on Neural Information Processing Systems"
