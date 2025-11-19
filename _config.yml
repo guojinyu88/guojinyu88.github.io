@@ -203,6 +203,17 @@ publications_by_year:
         venue: "arXiv preprint arXiv:2107.12578"
         year: 2021
 
+################################################
+publications:
+  - title: "Noise-Robustness Through Noise: Asymmetric LoRA Adaption with Poisoning Expert"
+    authors: "Zhaokun Wang, Jinyu Guo*, Jingwen Pu, Chen Lingfeng, Hongli Pu, Jie Ou, Libo Qin, Wenhong Tian."
+    venue: "The Thirty-ninth Annual Conference on Neural Information Processing Systems"
+    year: 2025
+    desc_zh: "NeurIPS 2025, CCF A类会议，*是通讯作者"
+    desc_en: "NeurIPS 2025, CCF A conference; * indicates corresponding author"
+
+
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
