@@ -15,14 +15,24 @@ His main research areas are artificial intelligence and natural language process
 
 Publication (partial list)
 ======
-<ul>
+<!-- <ul>
 {% for p in site.publications_ %}
   <li>
     <strong>{{ p.title }}</strong><br/>
     {{ p.authors }} {{ p.venue }}{% if p.desc_en %} ({{ p.desc_en }}){% endif %}
   </li>
 {% endfor %}
+</ul> -->
+
+<ul>
+{% for p in site.publications_ %}
+  <li>
+    <strong>{{ p.title }}</strong><br/>
+    {{ p.authors }} {{ p.venue }}{% if p.desc_en %} <strong>({{ p.desc_en }})</strong>{% endif %}
+  </li>
+{% endfor %}
 </ul>
+
 
 Academic services
 ======
