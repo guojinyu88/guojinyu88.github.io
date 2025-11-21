@@ -32,13 +32,14 @@ redirect_from:
     <strong>{{ p.title }}</strong><br/>
     {{ p.authors | markdownify | replace: "<p>", "" | replace: "</p>", "" }} {{ p.venue }}
     {% if page.lang == "en" %}
-      {% if p.desc_en %} ({{ p.desc_en }}){% endif %}
+      {% if p.desc_en %} <strong>({{ p.desc_en }})</strong>{% endif %}
     {% else %}
-      {% if p.desc_zh %} ({{ p.desc_zh }}){% endif %}
+      {% if p.desc_zh %} <strong>({{ p.desc_zh }})</strong>{% endif %}
     {% endif %}
   </li>
 {% endfor %}
 </ul>
+
 
 
 
