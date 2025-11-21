@@ -213,7 +213,7 @@ publications_:
 
   
   - title: "Noise-Robustness Through Noise: Asymmetric LoRA Adaption with Poisoning Expert"
-    authors: "Zhaokun Wang, Jinyu Guo*, Jingwen Pu, Chen Lingfeng, Hongli Pu, Jie Ou, Libo Qin, Wenhong Tian."
+    authors: "Zhaokun Wang, <strong>Jinyu Guo*</strong>, Jingwen Pu, Chen Lingfeng, Hongli Pu, Jie Ou, Libo Qin, Wenhong Tian."
     venue: "The Thirty-ninth Annual Conference on Neural Information Processing Systems"
     desc_zh: "NeurIPS 2025, CCF A类会议，*是通讯作者"
     desc_en: "NeurIPS 2025, CCF A conference; * indicates corresponding author"
