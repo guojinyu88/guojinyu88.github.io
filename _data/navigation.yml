@@ -30,7 +30,7 @@
 #     url: /new_bar/
 
 main:
-  - title: "en"
+  - title: "English Version"
     url: /en/
     
 #   - title: "Guide"
