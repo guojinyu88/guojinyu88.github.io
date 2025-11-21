@@ -27,7 +27,7 @@ redirect_from:
 </ul> -->
 
 <ul>
-{% for p in site.publications %}
+{% for p in site.publications_ %}
   <li>
     <strong>{{ p.title }}</strong><br/>
     {{ p.authors | markdownify | replace: "<p>", "" | replace: "</p>", "" }} {{ p.venue }}
