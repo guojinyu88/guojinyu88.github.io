@@ -17,14 +17,30 @@ redirect_from:
 
 论文发表（部分）
 ======
-<ul>
+<!-- <ul>
 {% for p in site.publications_ %}
   <li>
     <strong>{{ p.title }}</strong><br/>
     {{ p.authors }} {{ p.venue }}{% if p.desc_zh %} ({{ p.desc_zh }}){% endif %}
   </li>
 {% endfor %}
+</ul> -->
+
+<ul>
+{% for p in site.publications %}
+  <li>
+    <strong>{{ p.title }}</strong><br/>
+    {{ p.authors | markdownify | replace: "<p>", "" | replace: "</p>", "" }} {{ p.venue }}
+    {% if page.lang == "en" %}
+      {% if p.desc_en %} ({{ p.desc_en }}){% endif %}
+    {% else %}
+      {% if p.desc_zh %} ({{ p.desc_zh }}){% endif %}
+    {% endif %}
+  </li>
+{% endfor %}
 </ul>
+
+
 
 学术服务
 ======
