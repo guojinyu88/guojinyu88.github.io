@@ -115,7 +115,7 @@ publications_by_year:
   - year: 2025
     items:
       - title: "Smart Transparency: A User-Centered Approach to Improving Human–Machine Interaction in High-Risk Supervisory Control Tasks"
-        authors: "K Wang, W Hou, L Hong, J Guo"
+        authors: "K Wang, W Hou, L Hong, <strong>J Guo</strong>"
         venue: "Electronics 14 (3), 420"
         year: 2025
       - title: "Bi-directional feature learning-based approach for zero-shot event argument extraction"
