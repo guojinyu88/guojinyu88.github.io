@@ -45,7 +45,7 @@ redirect_from:
 
 学术服务
 ======
-担任 ICML、NeurIPS、ACL、WWW、AAAI、EMNLP、TKDE、NAACL、AISTATS、Information Fusion、Information
+担任 ICML、NeurIPS、ACL、WWW、AAAI、EMNLP、TKDE、NAACL、TMM、AISTATS、Information Fusion、Information
 Processing & Management、ESWA 等多个国际会议期刊的审稿⼈
 
 
