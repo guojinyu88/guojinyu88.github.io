@@ -277,6 +277,12 @@ publications_:
     venue: "Expert Systems with Applications"
     desc_zh: "<strong>SCI大类一区期刊</strong>"
     desc_en: "<strong>SCI Q1 Journal</strong>"
+
+    - title: "Accelerating Long-Context Inference of Large Language Models via Dynamic Attention Load Balancing"
+    authors: "Jie Ou, <strong>Jinyu Guo#</strong>, Shuaihong Jiang, Xu Li, Ruini Xue, Wenhong Tian, Rajkumar Buyya"
+    venue: "Knowledge-Based Systems"
+    desc_zh: "<strong>SCI大类一区TOP期刊，#是共同一作</strong>"
+    desc_en: "<strong>SCI Q1 TOP Journal; # indicates co-first author</strong>"  
   
   - title: "Cognition-aligned frequency filtering for sentence embeddings"
     authors: "Chenrui Mao, Kai Shuang, <strong>Jinyu Guo*</strong>, Bing Qian, Yu Yang, Haoqing Li."
