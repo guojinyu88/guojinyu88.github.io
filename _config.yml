@@ -278,7 +278,7 @@ publications_:
     desc_zh: "<strong>SCI大类一区期刊</strong>"
     desc_en: "<strong>SCI Q1 Journal</strong>"
 
-    - title: "Accelerating Long-Context Inference of Large Language Models via Dynamic Attention Load Balancing"
+  - title: "Accelerating Long-Context Inference of Large Language Models via Dynamic Attention Load Balancing"
     authors: "Jie Ou, <strong>Jinyu Guo#</strong>, Shuaihong Jiang, Xu Li, Ruini Xue, Wenhong Tian, Rajkumar Buyya"
     venue: "Knowledge-Based Systems"
     desc_zh: "<strong>SCI大类一区TOP期刊，#是共同一作</strong>"
