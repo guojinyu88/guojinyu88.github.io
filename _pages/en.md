@@ -9,6 +9,10 @@ lang: en
 Guo Jinyu is a lecturer at the School of Information and Software Engineering, University of Electronic Science and Technology of China, and a joint PhD candidate in the Department of Information Engineering, University of Cambridge. He is a member of the Youth Working Committee of the Chinese Information Processing Society of China (CIP), a member of the Large Model and Generation Committee of CIP, and a member of the Natural Language Processing Committee of the China Computer Federation (CCF). His main research areas include natural language processing, information retrieval, multimodal learning, and embodied intelligence. His research focus is on the adaptation and fine-tuning optimization of large models in different scenarios, as well as the safety and acceleration of large models. He has published over 40 papers in internationally renowned conferences and journals (such as CCF Class A conferences and SCI Q1 journals), including 26 papers as first/corresponding author. He serves as a reviewer for several internationally renowned conferences and journals, including ACL, NeurIPS, ICML, WWW, and TKDE. He is currently leading several national and provincial-level research projects, including the National Natural Science Foundation of China (NSFC) Youth Fund, the National Key Laboratory Open Fund, and others.
 
 
+Work experience
+======
+1. August 2024 - Present: Lecturer, School of Information and Software Engineering, University of Electronic Science and Technology of China
+2. June 2017 - July 2018: Teacher in the Western China Volunteer Teaching Program (Aksu Prefecture, Xinjiang)
 
 
 Publication (partial list)
