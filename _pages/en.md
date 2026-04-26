@@ -32,9 +32,16 @@ Publication (partial list)
 </ul>
 
 
-Academic services
+Academic Service
 ======
-Serves as a reviewer: ICML, NeurIPS, ACL, WWW, AAAI, EMNLP, TKDE, NAACL, TMM, AISTATS, Information Fusion, Information Processing & Management, ESWA, etc.
+1. Member of the Youth Working Committee, Chinese Information Processing Society of China
+2. Member of the Large Language Models and Generation Technical Committee, Chinese Information Processing Society of China
+3. Member of the Technical Committee on Natural Language Processing, China Computer Federation
+4. Reviewer and PC Member for multiple internationally renowned conferences and journals, including ICML, NeurIPS, ACL, WWW, AAAI, EMNLP, TKDE, NAACL, TMM, AISTATS, Information Fusion, and Information Processing & Management
+
+
+
+
 
 
 Partial Project Experience
@@ -49,12 +56,12 @@ Partial Project Experience
 
 
 
-Honors
+Honors and Awards
 ------
 
-| Honors | Time |
-|------|-----:|
-| Outstanding Doctoral Graduates of Beijing in 2024 | 2024-05 |
-| Outstanding Doctoral Graduates of BUPT in 2024 | 2024-05 |
-| 2022 National Scholarship for Doctoral Students | 2022-12 |
-
+| Honor |
+|------|
+| Outstanding Ph.D. Graduate of Beijing, 2024 |
+| National Scholarship for Ph.D. Students, 2022 |
+| Outstanding Ph.D. Graduate of Beijing University of Posts and Telecommunications, 2024 |
+| Outstanding Ph.D. Student of the State Key Laboratory, 2020 |
