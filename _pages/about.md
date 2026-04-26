@@ -43,8 +43,10 @@ redirect_from:
 
 学术服务
 ======
-担任 ICML、NeurIPS、ACL、WWW、AAAI、EMNLP、TKDE、NAACL、TMM、AISTATS、Information Fusion、Information
-Processing & Management、ESWA 等多个国际会议期刊的审稿⼈
+1. 中国中文信息学会青年工作委员会委员
+2. 中国中文信息学会大模型与生成专委会委员
+3. 中国计算机学会自然语言处理专委会委员
+4. 担任 ICML、NeurIPS、ACL、WWW、AAAI、EMNLP、TKDE、NAACL、TMM、AISTATS、Information Fusion、Information Processing & Management 等多个国际知名会议及期刊的审稿人及PC Member
 
 
 部分项目经历
@@ -61,9 +63,9 @@ Processing & Management、ESWA 等多个国际会议期刊的审稿⼈
 曾获荣誉
 ------
 
-| 荣誉 | 时间 |
-|------|-----:|
-| 2024年北京市优秀博士毕业生 | 2024-05 |
-| 2024年北京邮电大学优秀博士毕业生 | 2024-05 |
-| 2022年博士国家奖学金 | 2022-12 |
-
+| 荣誉 | 
+|------|
+| 2024年北京市优秀博士毕业生|
+| 2022年博士国家奖学金 |
+| 2024年北京邮电大学优秀博士毕业生 |
+| 2020年国家重点实验室优秀博士研究生|
